@@ -1,7 +1,7 @@
 ## Applications associated with the papers
 ### Web Application - Promoting and Integrating a Sustainable Lifestyle (Bachelor) - RO
-- https://github.com/andreitecsor/collectio-server - React
-- https://github.com/andreitecsor/collectio-web - Java / Spring Framework
+- https://github.com/andreitecsor/collectio-server - Java / Spring Framework
+- https://github.com/andreitecsor/collectio-web - React
 
 ### Secure Data Processing in Interbank Synchronisation (Dissertation) - EN
 - https://github.com/andreitecsor/requester-ui - React
